@@ -1,0 +1,82 @@
+body{
+    background-image: url('https://t3.ftcdn.net/jpg/02/90/89/76/360_F_290897614_7RdAsk2GmumcGWZ2qklmV74hKlNmznSx.jpg'); 
+    background-repeat: no-repeat;
+    background-size: 1550px 750px;
+} 
+h{
+   
+   position: relative;
+   left: 198px;
+   top: 20px;
+   font-size: 50px;
+   font-style: italic;
+
+}
+.lab1{
+   position: relative;
+   left: 65px;
+   top: 35px;
+   font-size:30px;
+   font-style: italic;
+   color: rgb(235, 20, 203);
+   
+}
+#email{
+   position: relative;
+   right: 180px;
+   top: 70px;
+   size: 90px;
+   width: 220px;
+   height: 30px;
+   font-style: italic;
+   color: blue;
+}
+.lab2{ 
+   position: relative;
+   top: 95px;
+   left: 68px;
+   font-size: 30px;
+   font-style: italic;
+   color: rgb(236, 53, 233);
+   
+}
+#password{
+   position: relative;
+   right: 190px;
+   top: 135px;
+   size: 90px;
+   width: 220px;
+   height: 30px;
+   font-style: italic;
+   color: blue;
+}
+button {
+   position: relative;
+   left: 170px;
+   top: 185px;
+   size: 90px;
+   width: 170px;
+   height: 35px;
+   font-style: italic;
+   color: blue;
+   border-radius: 15px;
+   background-color: #f3c3bb;
+}
+#myclass{
+   color: aliceblue;
+   background-color: blanchedalmond;
+   height: 400px;
+   width: 500px;
+   position: relative;
+   left: 500px;
+   top: 165px;
+   background-image: url('https://i0.wp.com/picjumbo.com/wp-content/uploads/red-and-blue-pillars-wallpaper-abstract-background-free-image.jpeg?w=600&quality=80');
+}
+#timeDisplay{
+   height: 58px;
+   width: 155px;
+   position: relative;
+   left: 1360px;
+   font-size: 50px;
+   color: beige;
+}
